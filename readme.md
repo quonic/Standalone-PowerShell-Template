@@ -1,4 +1,4 @@
-# PowerShell Standalone Example
+# Standalone PowerShell Example
 
 ## Requirements
 
