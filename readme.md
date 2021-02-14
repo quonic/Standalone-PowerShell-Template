@@ -1,4 +1,12 @@
-# Standalone PowerShell Example
+# Standalone PowerShell Template
+
+## Description
+
+This is an example template that has a batch script that downloads the latest version of PowerShell from GitHub, and a batch script to run a PowerShell script.
+
+## Reason behind creation
+
+I've seen a few environments where upgrading PowerShell isn't an option for one reason or another. This gives the option to not have to upgrade PowerShell and yet still use the latest version of PowerShell. You can also run scripts with thier own packaged version of PowerShell.
 
 ## Requirements
 
@@ -21,5 +29,5 @@
 2. Edit and Rename `RunExample.bat` and `Example.ps1` as needed
 3. Delete `PowerShell.zip` and `DownloadPowerShell.bat`
 4. Zip your `bat` and `ps1` files, and the `PowerShell` folder
-5. Move you zip file to production
+5. Move your zip file to production
 6. Extract and run your `bat` file
