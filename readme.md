@@ -20,6 +20,6 @@
 1. Do the steps above from 1 to 4
 2. Edit and Rename `RunExample.bat` and `Example.ps1` as needed
 3. Delete `PowerShell.zip` and `DownloadPowerShell.bat`
-4. Zip your `bat`, `ps1`, and the `PowerShell` files and folders
+4. Zip your `bat` and `ps1` files, and the `PowerShell` folder
 5. Move you zip file to production
-6. Extract and run you `bat` file
+6. Extract and run your `bat` file
