@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an example template that has a batch script that downloads the latest version of PowerShell from GitHub, and a batch script to run a PowerShell script.
+This is an example template that has a batch script that downloads the latest version of PowerShell from GitHub, and a batch script to run a PowerShell script with that version of PowerShell.
 
 ## Reason behind creation
 
