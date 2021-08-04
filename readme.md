@@ -2,11 +2,11 @@
 
 ## Description
 
-This is an example template that has a batch script that downloads the latest version of PowerShell from GitHub, and a batch script to run a PowerShell script with that version of PowerShell.
+This is an example template that has a batch script that downloads the latest release version of PowerShell from GitHub, and a batch script to run a PowerShell script with that version of PowerShell.
 
 ## Reason behind creation
 
-I've seen a few environments where upgrading PowerShell isn't an option for one reason or another. This gives the option to not have to upgrade PowerShell and yet still use the latest version of PowerShell. You can also run scripts with thier own packaged version of PowerShell.
+I've seen a few environments where upgrading PowerShell isn't an option for one reason or another. This gives the option to not have to upgrade PowerShell and yet still use the latest version of PowerShell. Allowing you to run PowerShell scripts with thier own packaged version of PowerShell. From my testing .Net 5.0 isn't required as the PowerShell zip from Github come with everything needed to run it.
 
 ## Requirements
 
